@@ -1,5 +1,5 @@
 ## Code-Aligned Autoencoders
-This subfolder contains the Python code developed for the empirical experiments carried out and presented in the paper *Code-Aligned Autoencoders for Unsupervised Change Detection in Multimodal Remote Sensing Images* which can be found at https://arxiv.org/abs/2004.07011.
+This subfolder contains the Python code developed for the empirical experiments carried out and presented in the paper *Multi-head Graph Attention Adversarial Autoencoder Network for Unsupervised Change Detection Using Heterogeneous Remote Sensing Images* which can be found at https://arxiv.org/abs/2004.07011.
 
 Please refer to the paper for details. You are more than welcome to use the code, but acknowledge us by referencing to our paper and to this Github repository!
 
